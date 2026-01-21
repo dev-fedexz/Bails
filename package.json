@@ -1,7 +1,7 @@
 {
-  "name": "WaBail",
+  "name": "Baileys",
   "version": "9.2.2",
-  "description": "WaBail es una librería JavaScript ligera para interactuar con la API de WhatsApp Web usando WebSocket.",
+  "description": "Baileys API de WhatsApp Web usando WebSocket.",
   "keywords": [
     "facebook",
     "metaplatforms",
@@ -17,7 +17,7 @@
     "url": "git@github.com:WhiskeySockets/Baileys.git"
   },
   "license": "MIT",
-  "author": "Ado",
+  "author": "the-xyzz",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
