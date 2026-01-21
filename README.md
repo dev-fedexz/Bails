@@ -9,7 +9,7 @@
 </p>
 
 ---
-⊹ **WaBail** es una librería de JavaScript ligera y completa para interactuar con la API Web de WhatsApp mediante WebSocket.
+⊹ **Baileys** es una librería de JavaScript ligera y completa para interactuar con la API Web de WhatsApp mediante WebSocket.
 
 > [!IMPORTANT]  
 > Este proyecto es una versión mejorada de Baileys, diseñada específicamente para facilitar el uso y corregir errores comunes en el desarrollo de bots de WhatsApp.
