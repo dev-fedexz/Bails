@@ -1,5 +1,5 @@
 <h1 align="center">
- <span style="color:#25D366;">[🟢] WaBail</span> <span style="color:#FFFFFF;">WhatsApp Web API</span>
+ <span style="color:#25D366;"> ꕥ Baileys</span> <span style="color:#FFFFFF;">WhatsApp Web API</span>
 </h1>
 
 <p align="center">
